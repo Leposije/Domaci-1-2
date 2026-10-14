@@ -8,4 +8,4 @@ Tokom kursa očekujem da obradimo sledeće teme:
 - Rad sa granama i Pull Request-ovima
 - Python
 - SQL
-- PyTorch
+- PySpark
